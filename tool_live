@@ -53,7 +53,7 @@ echo
 echo
 echo $cy "━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━"
 echo $i  "RECODE   : GILANG ADHITYA"
-echo $i  "WA       : 087030270218"
+echo $i  "WA       : 087830270218"
 echo $i  "YOUTUBE  : 7 April gh0st"
 echo $i  "TOOLS    : INSTALLER (7 TOOLS)"
 echo $cy "━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━"
@@ -79,7 +79,7 @@ echo $cy "[8]"$me" EXIT"
 echo "=================================================="
 echo
 echo
-echo $cy"┌==="$bi"[ DICKY GT ]"
+echo $cy"┌==="$bi"[ 7April gh0st]"
 echo $cy"¦"
 read -p">>>" pil;
 
